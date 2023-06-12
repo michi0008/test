@@ -2,5 +2,5 @@
 
 int main(void)
 {
-    std::cout << "hello version10" << std::endl;
+    std::cout << "hello varsion10" << std::endl;
 }
